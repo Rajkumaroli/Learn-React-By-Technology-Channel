@@ -1,0 +1,22 @@
+
+div{
+  text-align:center;
+}
+label{
+  font-size:20px;
+  margin-top:20px
+}
+.input{
+  padding:10px 20px;
+  margin-top:20px;
+}
+button{
+  background-color:green;
+  padding:5px 20px;
+  color:white;
+  font-size:35px;
+}
+li{
+  font-size:30px;
+  list-style:none;
+}
